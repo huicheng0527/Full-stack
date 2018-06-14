@@ -1,6 +1,6 @@
 # Full-stack
 
-Programming Foundations with Python
+Programming Foundations with Python<br>
 Intro to HTML and CSS
 Responsive Web Design Fundamentals
 Responsive Images
